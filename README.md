@@ -3,4 +3,4 @@ During my Internship with Bel Air Finishing I was responsible for Redesigning th
 
 Check out the Company Repository: https://github.com/belairfinishing/3DPostprocessing
 
-Check out the Company Website Peter and I Redesigned and Created from scratch: http://www.3dpostprocessing.com/ 
+Check out the Company Website Peter and I redesigned and created from scratch: http://www.3dpostprocessing.com/ 
